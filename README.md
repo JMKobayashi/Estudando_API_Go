@@ -1,2 +1,2 @@
-# Estudando_API_Go
+# Estudando API Go
 Estudos de API utilizando Golang
